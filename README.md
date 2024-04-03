@@ -1,7 +1,7 @@
 
-# Modelo de deep learning que clasifica imágenes del juego piedra, papel o tijera.
+# Deep learning model that classifies images of the rock-paper-scissors game.
 
-## Red convolucional que resuelve un problema de clasificación sencillo utilizando tensorflow y keras.
+## Convolutional network solving a simple classification problem using tensorflow and keras.
 
 Clases:
 * Piedra = predict[0]
@@ -9,8 +9,8 @@ Clases:
 * Tijera = predict[2]
 
 Valores finales:
-* Exactitud del modelo preliminar: 0.52
-* Exactitud del modelo final: 0.87
+* Accuracy of the preliminary model: 0.52
+* Accuracy of final model: 0.87
 
 
 
